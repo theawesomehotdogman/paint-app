@@ -1,1 +1,5 @@
 /__pycache__
+/main.build
+/main.dist
+/builds
+*.png
