@@ -1,3 +1,3 @@
-python -m nuitka --standalone --windows-console-mode=disable main.py
+python -m nuitka --standalone --windows-console-mode=disable --enable-plugin=tk-inter main.py
 use this to compile game for release
 cool

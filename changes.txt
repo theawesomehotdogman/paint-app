@@ -1,0 +1,7 @@
+Paint Program v2.0:
+-Added custom color picker
+-Pressing C will reset canvas
+-You can now use scroll wheel to increase or decrease brush size
+-Added cap to brush size
+Paint Program v2.1
+-Arrow keys now have a brush size limit
