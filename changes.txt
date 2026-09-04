@@ -1,3 +1,4 @@
+Version: 3.0.0.5 For Build
 Paint Program v2.0:
 -Added custom color picker
 -Pressing C will reset canvas
@@ -5,3 +6,13 @@ Paint Program v2.0:
 -Added cap to brush size
 Paint Program v2.1
 -Arrow keys now have a brush size limit
+Paint Program v3.0
+-Changed resolution and saved image size to 580x500
+-Brush paint is now on top layer
+-Brush will no longer appear in saved images if you press S instead of save button
+-Brush will no longer stop placing if you adjusted size while holding the mouse down
+-You can now load previously saved images
+Paint Program v3.1
+-Loaded images will resize to fit canvas
+-Clearing canvas will also remove loaded image
+No More Updates Ever
